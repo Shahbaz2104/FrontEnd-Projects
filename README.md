@@ -9,7 +9,8 @@ A basic calculator web application built with HTML, CSS, and JavaScript. This pr
 
 ## Demo
 
-> [Optional: Add a screenshot or a GIF of your calculator UI here]
+> ![Uploading calc.png…]()
+
 
 ## Features
 
