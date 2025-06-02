@@ -1,5 +1,5 @@
 # FrontEnd-Projects
-Sure! Here’s a sample README.md for the Simple Calculator project in your repo Shahbaz2104/FrontEnd-Projects. This template covers project introduction, features, setup, usage, and more. You can further customize it as needed.
+
 
 ---
 
