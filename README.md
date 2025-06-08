@@ -18,7 +18,7 @@ A basic calculator web application built with HTML, CSS, and JavaScript. This pr
 - Responsive and clean user interface
 - Perform basic arithmetic operations (add, subtract, multiply, divide)
 - Clear and backspace functionality
-- Real-time calculation display
+- Real-time calculation display.
 - Built with vanilla JavaScript, HTML, and CSS
 
 ## Getting Started
